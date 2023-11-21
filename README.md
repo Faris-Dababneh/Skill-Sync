@@ -1,5 +1,5 @@
 # SKILL SYNC - By Faris Dababneh
-#### Video Demo: 
+#### Video Demo: https://youtu.be/JZ0IJTY8660
 ## Description:
 
 Skill Sync is a website modeled on humanbenchmark.com that tests aspects of one's cognitive abilities. The application is built using React.js, Node.js, Tailwind CSS, and incorporates Firebase. Currently, there are 2 fully functional tests, Reaction Time and Number Memory, the rest are in progress. This project was created for Harvard's CS50x Final Project. Full functionality for this application would stretch the development time by at least 1 month. Therefore, I chose to leave the functionality, UI, and UX design at its current state to model what a fully functional website would look like without implementing features that would otherwise be insecure (sign up and login) and not refined (the remaining tests).
